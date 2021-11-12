@@ -1,0 +1,248 @@
+.button {
+    position: absolute !important;
+    color: #524343 !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.24) !important;
+    border-radius: 34px !important;
+    text-decoration: none !important;
+    text-align: center !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-size: 28px !important;
+    line-height: 45px !important;
+}
+
+#Register {
+    width: 141px !important;
+    height: 45px !important;
+    left: 1431px !important;
+    top: 84px !important;
+}
+
+#login {
+    width: 216px !important;
+    height: 45px !important;
+    left: 1650px !important;
+    top: 84px !important;
+}
+
+.h2-index {
+    background: #fff !important;
+}
+
+.left {
+    position: absolute;
+    width: 951.5px;
+    height: 263px;
+    left: 0px;
+    top: 0px;
+}
+
+.right {
+    position: absolute;
+    width: 952px;
+    height: 263px;
+    left: 953px;
+    top: 0px;
+}
+
+.government {
+    position: absolute;
+    width: 366px;
+    height: 110px;
+    left: 21px;
+    top: 62px
+}
+
+.card {
+    position: absolute !important;
+    width: 559px !important;
+    height: 434px !important;
+    left: 680px !important;
+    top: 327px !important;
+    background: #EDE2CF !important;
+    border-radius: 23px !important;
+}
+
+.card2 {
+    position: absolute !important;
+    width: 505px !important;
+    height: 392px !important;
+    left: 710px !important;
+    top: 348px !important;
+    background: #FFFFFF !important;
+    border-radius: 23px !important;
+}
+
+#card-bckgnd {
+    position: absolute !important;
+    width: 1856px !important;
+    height: 700px !important;
+    left: 34px !important;
+    top: 294px !important;
+}
+
+#card-center {
+    width: 1790px !important;
+    height: 645px !important;
+    left: 35.75px !important;
+    top: 28px !important;
+}
+
+
+/*Estilos para las entradas input*/
+
+input::placeholder {
+    text-align: center!important;
+    font-family: Poppins!important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 30px !important;
+    opacity: 40% !important;
+}
+
+input {
+    border: 0 !important;
+    text-align: center !important;
+}
+
+#curp {
+    left: 30px !important;
+    top: 76px !important;
+}
+
+#text-curp {
+    left: 50px !important;
+    top: 10px !important;
+    z-index: 1 !important;
+}
+
+#image-curp {
+    top: 83px !important;
+}
+
+#pass {
+    position: absolute !important;
+    width: 428px !important;
+    height: 58px !important;
+    left: 34px !important;
+    top: 200px !important;
+}
+
+#text-pass {
+    left: 50px !important;
+    top: 130px !important;
+}
+
+#image-pass {
+    top: 210px !important;
+}
+
+.input-image {
+    position: absolute !important;
+    width: 45.19px !important;
+    height: 45.19px !important;
+    opacity: 35% !important;
+    z-index: 1 !important;
+    left: 52px !important;
+}
+
+.input-text {
+    width: 142px !important;
+    height: 36px !important;
+    position: absolute !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 25px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+.input-value {
+    background: #DDC9A3 !important;
+    border-radius: 147px !important;
+    font-size: 35px !important;
+    z-index: 0 !important;
+    position: absolute !important;
+    width: 428px !important;
+    height: 58px !important;
+}
+
+#login-1 {
+    width: 350px;
+    height: 50px;
+    left: 80px;
+    top: 300px;
+    background: #9E7E4F;
+    color: white;
+    font-size: 40px;
+}
+
+footer {
+    position: absolute;
+    width: 269px;
+    height: 90px;
+    left: 586px;
+    top: 825px;
+}
+
+#last-h3 {
+    position: absolute;
+    width: 400px;
+    height: 45px;
+    left: 220px;
+    top: 1px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+    color: #000000;
+}
+
+#last-button {
+    position: absolute;
+    width: 120px;
+    height: 45px;
+    left: 290px;
+    top: 90px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+    color: #41AEB5;
+    text-decoration: none;
+}
+
+#login-2 {
+    width: 250px;
+    height: 50px;
+    left: 20px;
+    top: 40px;
+    background: #9E7E4F;
+    color: white;
+    font-size: 40px;
+    border: 0;
+}
+
+.capt {
+    position: absolute;
+    top: 110%;
+    left: 30%;
+    width: 40px;
+    height: 80px;
+}
+
+.capt-text {
+    position: absolute;
+    top: 115%;
+    left: 40%;
+    font-size: 24px;
+}

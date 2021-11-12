@@ -1,0 +1,826 @@
+body {
+    margin: 0px !important;
+}
+
+
+/* Dseño */
+
+.tn {
+    position: absolute !important;
+    width: 1440px !important;
+    height: 265px !important;
+    left: 0px !important;
+    top: -2px !important;
+}
+
+
+/* Frame */
+
+.Frame {
+    position: absolute !important;
+    width: 1378px !important;
+    height: 702px !important;
+    left: -10px !important;
+    top: 4px !important;
+}
+
+
+/*RECTANGULOS REGISTRO*/
+
+
+/* Rectangle 3 */
+
+.rectangle3 {
+    position: absolute !important;
+    width: 1850px !important;
+    height: 702px !important;
+    left: 34px !important;
+    top: 294px !important;
+    background: #EDE2CF !important;
+    border-radius: 23px !important;
+}
+
+
+/* Rectangle 4 */
+
+.rectangle4 {
+    position: absolute !important;
+    width: 1400px !important;
+    height: 645px !important;
+    left: 69.75px !important;
+    top: 322px !important;
+    background: #EDE2CF !important;
+    border-radius: 23px !important;
+}
+
+
+/*texto*/
+
+
+/* avisos */
+
+.aviso {
+    position: absolute;
+    width: 267px;
+    height: 90px;
+    left: 543px;
+    top: 838px;
+}
+
+
+/* Iniciar sesión */
+
+.iniciar_sesion_link {
+    position: absolute;
+    width: 192px;
+    height: 45px;
+    left: 350px;
+    top: 280px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+    color: #41AEB5;
+    text-decoration: none;
+}
+
+
+/* ¿Ya tiene cuenta? */
+
+.tiene_cuenta {
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 250px;
+    top: 210px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+    color: #000000;
+}
+
+
+/*BOTON DE REGISTRAR*/
+
+
+/* Register */
+
+.registrar {
+    position: absolute !important;
+    width: 179px !important;
+    height: 60px !important;
+    left: 850px !important;
+    top: 800px !important;
+    background-color: #EDE2CF !important;
+    border: 0px !important;
+}
+
+
+/* Rectangle 9 */
+
+.rectangle_registrar {
+    position: absolute !important;
+    width: 179px !important;
+    height: 60px !important;
+    left: 5px !important;
+    top: 40px !important;
+    background: #9E7E4F !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 30px !important;
+}
+
+
+/* Registrar */
+
+.registrar_label {
+    position: absolute !important;
+    width: 137px !important;
+    height: 45px!important;
+    left: 10px !important;
+    top: 45px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 30px !important;
+    line-height: 45px !important;
+    /* identical to box height */
+    color: #FFFFFF !important;
+}
+
+
+/*BOTON REGISTRO*/
+
+
+/* Registro */
+
+.regis_button {
+    position: absolute !important;
+    width: 191px !important;
+    height: 68px !important;
+    left: 901px !important;
+    top: 72px !important;
+}
+
+
+/* Rectangle 7 */
+
+.rectangle7 {
+    position: absolute !important;
+    width: 191px !important;
+    height: 68px !important;
+    left: 11px !important;
+    top: 12px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 34px !important;
+}
+
+
+/* REGISTRO */
+
+.registro {
+    position: absolute !important;
+    width: 141px !important;
+    height: 45px !important;
+    left: 34px !important;
+    top: 25px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-size: 30px !important;
+    line-height: 45px !important;
+    /* identical to box height */
+    color: #524343 !important;
+}
+
+
+/*BOTON INICIAR SESION*/
+
+
+/* Iniciar sesion */
+
+.iniciar_sesion {
+    position: absolute !important;
+    width: 235px !important;
+    height: 68px !important;
+    left: 1138px !important;
+    top: 72px !important;
+}
+
+
+/* Rectangle 8 */
+
+.rectangle8 {
+    position: absolute !important;
+    width: 235px !important;
+    height: 68px !important;
+    left: 0px !important;
+    top: 12px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 34px !important;
+}
+
+
+/* INICIAR SESIÓN */
+
+.iniciar {
+    position: absolute !important;
+    width: 250px !important;
+    height: 45px !important;
+    left: 6px !important;
+    top: 25px !important;
+    font-family: Poppins!important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-size: 30px !important;
+    line-height: 45px !important;
+    /* identical to box height */
+    color: #524343 !important;
+}
+
+
+/*NOMBRE*/
+
+
+/* Frame 1 */
+
+.nombre {
+    position: absolute !important;
+    width: 428px !important;
+    height: 89px !important;
+    left: 103px !important;
+    top: 342px !important;
+}
+
+
+/* Rectangle 13 */
+
+.rectangle_nombre {
+    position: absolute !important;
+    width: 550px !important;
+    height: 48px !important;
+    left: 0px !important;
+    top: 83px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* Nombre */
+
+.nombre_label {
+    position: absolute !important;
+    width: 97px !important;
+    height: 36px !important;
+    left: 0px !important;
+    top: 42px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+
+/*APELLIDO PATERNO*/
+
+
+/* Apellido Paterno */
+
+.apellido_paterno {
+    position: absolute !important;
+    width: 428px !important;
+    height: 89px !important;
+    left: 463px !important;
+    top: 342px !important;
+}
+
+
+/* Apellido Paterno */
+
+.apellido_paterno_label {
+    position: absolute !important;
+    width: 194px !important;
+    height: 36px !important;
+    left: 220px !important;
+    top: 42px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+
+/* Rectangle 12 */
+
+.rectangle_paterno {
+    position: absolute !important;
+    width: 550px !important;
+    height: 48px !important;
+    left: 220px !important;
+    top: 83px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* mdi:account */
+
+.icono_paterno {
+    position: absolute !important;
+    width: 38px !important;
+    height: 38px !important;
+    left: 475px !important;
+    top: 393px !important;
+}
+
+
+/* Vector */
+
+.vector_paterno {
+    position: absolute !important;
+    left: 16.67% !important;
+    right: 16.67% !important;
+    top: 16.67% !important;
+    bottom: 16.67% !important;
+    background: #000000 !important;
+}
+
+
+/* Apellido Materno */
+
+.apellido_materno {
+    position: absolute;
+    width: 428px !important;
+    height: 99px !important;
+    left: 1300px !important;
+    top: 342px !important;
+}
+
+
+/* RECTANGULO MATERNO 5 */
+
+.rectangle_materno {
+    position: absolute !important;
+    width: 550px !important;
+    height: 48px !important;
+    left: -15px !important;
+    top: 83px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* Apellido Materno */
+
+.apellido_materno_label {
+    position: absolute !important;
+    width: 201px !important;
+    height: 36px !important;
+    left: -15px !important;
+    top: 42px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+
+/* mdi:account */
+
+.icono_materno {
+    position: absolute !important;
+    width: 38px !important;
+    height: 38px !important;
+    left: 929px!important;
+    top: 393px !important;
+    z-index: 1 !important;
+}
+
+
+/* Vector */
+
+.vector_materno {
+    position: absolute !important;
+    left: 16.67% !important;
+    right: 16.67% !important;
+    top: 16.67% !important;
+    bottom: 16.67% !important;
+    background: #000000 !important;
+}
+
+
+/* CURP */
+
+.CURP {
+    position: absolute !important;
+    width: 700px !important;
+    height: 85.96px !important;
+    left: 103px !important;
+    top: 459px !important;
+}
+
+
+/* Rectangle 14 */
+
+.rectangle_CURP {
+    position: absolute !important;
+    width: 649px !important;
+    height: 48px !important;
+    left: 0px !important;
+    top: 95px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* image 1 
+position: absolute;
+width: 45.19px;
+height: 45.19px;
+left: 117.76px;
+top: 499.76px;
+
+background: url(.png);
+*/
+
+
+/* CURP */
+
+.CURP_label {
+    position: absolute !important;
+    width: 63px !important;
+    height: 36px !important;
+    left: 0px !important;
+    top: 59px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+
+/*CORREO ELECTRONICO*/
+
+
+/* Correo */
+
+.correo {
+    position: absolute !important;
+    width: 567px !important;
+    height: 94px !important;
+    left: 777px !important;
+    top: 459px !important;
+}
+
+
+/* Rectangle 10 */
+
+.rectangle_correo {
+    position: absolute !important;
+    width: 567px !important;
+    height: 48px !important;
+    left: 7px !important;
+    top: 95px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* Correo Electronico */
+
+.correo_label {
+    position: absolute !important;
+    width: 219px !important;
+    height: 36px !important;
+    left: 7px !important;
+    top: 59px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+
+/*CALLE*/
+
+
+/* Calle */
+
+.calle {
+    position: absolute !important;
+    width: 221px !important;
+    height: 95px !important;
+    left: 103px !important;
+    top: 500px !important;
+}
+
+
+/* Rectangle 11 */
+
+.rectangle_calle {
+    position: absolute !important;
+    width: 450px !important;
+    height: 48px !important;
+    left: 0px !important;
+    top: 201px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* Calle */
+
+.calle_label {
+    position: absolute !important;
+    width: 61px !important;
+    height: 36px !important;
+    left: 0px !important;
+    top: 154px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+
+/* N. ext */
+
+.exterior {
+    position: absolute !important;
+    width: 87px !important;
+    height: 95px !important;
+    left: 580px !important;
+    top: 500px !important;
+}
+
+
+/* Rectangle 15 */
+
+.rectangle_exterior {
+    position: absolute !important;
+    width: 100px !important;
+    height: 48px !important;
+    left: 7px !important;
+    top: 201px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* No. Ext. */
+
+.exterior_label {
+    position: absolute !important;
+    width: 79px !important;
+    height: 36px !important;
+    left: 7px !important;
+    top: 154px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box heig ht */
+    color: #000000 !important;
+}
+
+
+/*N.INTERIOR*/
+
+
+/* N.int */
+
+.interior {
+    position: absolute !important;
+    width: 87px !important;
+    height: 95px !important;
+    left: 730px !important;
+    top: 500px !important;
+}
+
+
+/* Rectangle 18 */
+
+.rectangle_interior {
+    position: absolute !important;
+    width: 100px !important;
+    height: 48px !important;
+    left: 10px !important;
+    top: 201px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* No. Int. */
+
+.interior_label {
+    position: absolute !important;
+    width: 77px !important;
+    height: 36px !important;
+    left: 10px !important;
+    top: 154px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box heigh t */
+    color: #000000 !important;
+}
+
+
+/*Colonia*/
+
+
+/* Colonia */
+
+.colonia {
+    position: absolute !important;
+    width: 243px !important;
+    height: 97px !important;
+    left: 880px !important;
+    top: 500px !important;
+}
+
+
+/* Rectangle 16 */
+
+.rectangle_colonia {
+    position: absolute !important;
+    width: 300px !important;
+    height: 48px !important;
+    left: 10px !important;
+    top: 201px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* Colonia */
+
+.colonia_label {
+    position: absolute !important;
+    width: 92px !important;
+    height: 36px !important;
+    left: 10px !important;
+    top: 154px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+
+/*Municipio*/
+
+
+/* Municipio */
+
+.municipio {
+    position: absolute !important;
+    width: 250px !important;
+    height: 91px !important;
+    left: 1235px !important;
+    top: 500px !important;
+}
+
+
+/* Rectangle 17 */
+
+.rectangle_municipio {
+    position: absolute !important;
+    width: 230px !important;
+    height: 48px !important;
+    left: 10px !important;
+    top: 201px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* Municipio */
+
+.municipio_label {
+    position: absolute !important;
+    width: 114px !important;
+    height: 36px !important;
+    left: 10px !important;
+    top: 154px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+
+/*ESTADO*/
+
+
+/* estado */
+
+.estado {
+    position: absolute !important;
+    width: 230px !important;
+    height: 101px !important;
+    left: 1500px !important;
+    top: 500px !important;
+}
+
+
+/* Rectangle 19 */
+
+.rectangle_estado {
+    position: absolute !important;
+    width: 230px !important;
+    height: 48px !important;
+    left: 18px !important;
+    top: 201px !important;
+    background: #DDC9A3 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}
+
+
+/* Estado */
+
+.estado_label {
+    position: absolute !important;
+    width: 81px !important;
+    height: 36px !important;
+    left: 26px !important;
+    top: 154px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+.password_label {
+    position: absolute !important;
+    width: 81px !important;
+    height: 36px !important;
+    left: 1400px !important;
+    top: 520px !important;
+    font-family: Poppins !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    /* identical to box height */
+    color: #000000 !important;
+}
+
+.rectangle_password {
+    position: absolute !important;
+    width: 330px !important;
+    height: 48px !important;
+    left: 1400px !important;
+    top: 554px !important;
+    background: #918b80 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 147px !important;
+}

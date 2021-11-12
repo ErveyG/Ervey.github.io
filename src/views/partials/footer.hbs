@@ -1,0 +1,24 @@
+<footer>
+    {{#if profile}}
+    
+        {{#if registro}}
+        <h3 class ="tiene_cuenta">
+            ¿Ya tienes cuenta?
+        </h3>
+        <h4>
+            <a class ="iniciar_sesion_link" href="/">
+                Iniciar Sesion
+            </a>
+        </h4>
+        {{else}}
+        <h3 id="last-h3">
+            ¿No tienes cuenta?
+        </h3>
+        <h4>
+            <a id="last-button" href="/registro">
+                REGISTRO
+            </a>
+        </h4>
+        {{/if}}
+    {{/if}}
+ </footer>
