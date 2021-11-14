@@ -33,17 +33,37 @@
     color: white;
     height: 40px;
     border-radius: 30px;
+    text-align: center;
 }
 
 .register-box input[type="text"] {
-    width: 50%;
+    width: 100%;
     height: 35px;
 }
 
-#am {
-    transform: translate(-40%, 0%);
+.register-box input[type="curp"],
+.register-box input[type="email"],
+.register-box input[type="password"] {
+    width: 100%;
+    height: 35px;
 }
 
-#ap {
-    transform: translate(-100%, 0%);
+.register-box select {
+    border: none;
+    background: #DDC9A3;
+    color: white;
+    height: 40px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.register-box input[type="submit"] {
+    border: none;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 40px;
+    background: #9E7E4F;
+    color: white;
+    font-family: Poppins;
+    font-size: 30px;
 }
