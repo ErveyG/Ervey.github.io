@@ -10,7 +10,8 @@ var url, registro;
 router.get('/', (req, res) => {
     url = true;
     registro = false;
-    res.render('partials/index.hbs', { url, registro });
+    profile = true;
+    res.render('partials/login.hbs', { url, registro, profile });
 })
 
 router.post('/', passport.authenticate('local.signin', {
