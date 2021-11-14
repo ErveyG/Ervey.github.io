@@ -65,3 +65,22 @@ body {
     font-family: Poppins;
     font-size: 30px;
 }
+
+.footer {
+    font-size: 30px;
+}
+
+.footer label {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%, 1100%);
+}
+
+.footer a {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%, 1200%);
+    color: #41AEB5;
+}

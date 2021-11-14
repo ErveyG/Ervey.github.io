@@ -1,24 +1,15 @@
 <footer>
     {{#if profile}}
-    
         {{#if registro}}
-        <h3 class ="tiene_cuenta">
-            ¿Ya tienes cuenta?
-        </h3>
-        <h4>
-            <a class ="iniciar_sesion_link" href="/">
-                Iniciar Sesion
-            </a>
-        </h4>
+        <div class="footer">
+            <label>¿No tienes cuenta?</label>
+            <a href="/registro">Registrarse</a>
+        </div>
         {{else}}
-        <h3 class ="tiene_cuenta">
-            ¿Ya tienes cuenta?
-        </h3>
-        <h4>
-            <a class ="iniciar_sesion_link" href="/">
-                Iniciar Sesion
-            </a>
-        </h4>
+            <div class="footer">
+                <label>¿Ya tienes cuenta?</label>
+                <a href="/">Iniciar Sesión</a>
+            </div>
         {{/if}}
     {{/if}}
  </footer>
