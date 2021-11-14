@@ -11,7 +11,7 @@ router.get('/', (req, res) => {
     url = true;
     registro = true;
     profile = true;
-    res.render('partials/login.hbs', { url, registro, profile });
+    res.render('partials/login.hbs', { url, registro, profile, });
 })
 
 router.post('/', passport.authenticate('local.signin', {
